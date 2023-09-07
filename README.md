@@ -1,2 +1,2 @@
-# globecom-ensemble
-Ensemble experimentation
+# Ensemble Method for data stream regression
+This repository contains the source code of an ensemble method for data stream regression tailored to the edge computing environment. The proposed ensemble method consists of heterogeneous online learning models. It can adapt to multiple online learning scenarios, is designed to run on resource-constrained devices, and aims to make more accurate predictions at the network edge.
